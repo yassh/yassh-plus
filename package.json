@@ -1,0 +1,21 @@
+{
+  "name": "yassh-plus",
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/yassh/yassh-plus/issues"
+  },
+  "devDependencies": {
+    "fixpack": "^2.3.1"
+  },
+  "homepage": "https://github.com/yassh/yassh-plus#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassh/yassh-plus.git"
+  },
+  "scripts": {
+    "fixpack": "fixpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
