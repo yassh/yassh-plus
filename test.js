@@ -6,5 +6,5 @@ test('plus', (t) => {
 
   t.equal(plus(1, 1), 2);
   t.equal(plus(1, 2), 3);
-  t.equal(plus(5, 10), 15);
+  t.equal(plus(7, 9), 16);
 });
